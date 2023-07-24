@@ -1,4 +1,3 @@
-# AlarmClock
 
 Here as you seen we made a alarmclock a project that's should be supported by font-end-development features.
 
@@ -15,6 +14,3 @@ In this project:
                       This project contains HTML ,CSS ,Javascript which should used to build structure, styling and also makes this site responsive.
                       
                       
-
-
-
