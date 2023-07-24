@@ -11,7 +11,8 @@ In this project:
 
                       We mainly thinking about the code that should be used for the purpose of alarmclock.
                       which should full-fill the purpose of alarm clock that is used in a regular basis.
-                      This project contains HTML ,CSS ,Javascript which should used to build structure, styling and also makes this site responsive.
+                      This project contains HTML ,CSS ,Javascript which should used to build structure, 
+                      styling and also makes this site responsive.
                       
                       
 ![Uploading Screenshot 2023-07-24 153158.png…]()
