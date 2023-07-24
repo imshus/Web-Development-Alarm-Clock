@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alarm clock</title>
+    <!--Attached CSS file-->
+    <link rel="stylesheet" href="style.css"/>
+    
+</head>
+<body>
+    <!--Alarm-Popup-->
+    <div id="alarmpopup" class="popup off">
+        <div class="header">
+            <h1>Alarm </h1>
+        </div>
+        <button class="stop"  onclick="stop()" > Stop </button>
+    </div>
+    <!--Container that should contains whole alarm clock-->
+    <div id="container">   
+        <h1 id="current-time" ></h1>
+        <!--Setting up alarm clock-->
+        <div id="setAlarm">
+            <input id="hr" placeholder="hr" step="1" type="time" value="00:00:00"/>
+            <button  onclick="setAlarm()">Set Alarm</button>
+        </div>
+        <!--Setting-up Number of alarm count-->
+        <div class="alrmCont">
+            <h3>Alarms</h3>
+            <div id = "alarm-array">  
+            </div>
+        </div>
+    </div>
+    <!--Attached javascript file-->
+    <script src = "index.js"></script>
+</body>
+</html>
