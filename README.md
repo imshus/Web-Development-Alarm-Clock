@@ -10,14 +10,11 @@ We made this project with the help of following skill set-
   
 In this project:
 
-                      We mainly think about the code that should be used for the purpose of alarmclock.
-                      Its full-fill the purpose of alarm clock that's should be used in a regular basis.
-                      We just use a HTML tags and attributes that's should used for the purpose of making this project.
-                      We also use CSS for the purpose of styling a HTML structure.
-                      We also used Javascript to makes a proper activeness of the project with the helps of concept like:
-                      DOM, Event and timeseries etc.
+                      We mainly thinking about the code that should be used for the purpose of alarmclock.
+                      which should full-fill the purpose of alarm clock that is used in a regular basis.
+                      This project contains HTML ,CSS ,Javascript which should used to build structure, styling and also makes this site responsive.
                       
- Hosting Link:https://imshus.github.io/Alarm-Clock-CN/
+                      
 
 
 
